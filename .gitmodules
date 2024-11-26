@@ -1,0 +1,75 @@
+[submodule "pack/bai/start/nvim"]
+	path = pack/bai/start/nvim
+	url = https://github.com/catppuccin/nvim
+[submodule "pack/bai/start/barbar.nvim"]
+	path = pack/bai/start/barbar.nvim
+	url = https://github.com/romgrk/barbar.nvim
+[submodule "pack/bai/start/nvim-web-devicons"]
+	path = pack/bai/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons
+[submodule "pack/bai/start/gitsigns.nvim"]
+	path = pack/bai/start/gitsigns.nvim
+	url = https://github.com/lewis6991/gitsigns.nvim
+[submodule "pack/bai/start/veil.nvim"]
+	path = pack/bai/start/veil.nvim
+	url = https://github.com/willothy/veil.nvim
+[submodule "pack/bai/start/telescope.nvim"]
+	path = pack/bai/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule "pack/bai/start/plenary.nvim"]
+	path = pack/bai/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "pack/bai/start/telescope-file-browser.nvim"]
+	path = pack/bai/start/telescope-file-browser.nvim
+	url = https://github.com/nvim-telescope/telescope-file-browser.nvim
+[submodule "pack/bai/start/actually.nvim"]
+	path = pack/bai/start/actually.nvim
+	url = https://github.com/mong8se/actually.nvim
+[submodule "pack/bai/start/dressing.nvim"]
+	path = pack/bai/start/dressing.nvim
+	url = https://github.com/stevearc/dressing.nvim
+[submodule "pack/bai/start/nvim-lspconfig"]
+	path = pack/bai/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "pack/bai/start/cmp-nvim-lsp"]
+	path = pack/bai/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+[submodule "pack/bai/start/cmp-buffer"]
+	path = pack/bai/start/cmp-buffer
+	url = https://github.com/hrsh7th/cmp-buffer
+[submodule "pack/bai/start/cmp-path"]
+	path = pack/bai/start/cmp-path
+	url = https://github.com/hrsh7th/cmp-path
+[submodule "pack/bai/start/cmp-cmdline"]
+	path = pack/bai/start/cmp-cmdline
+	url = https://github.com/hrsh7th/cmp-cmdline
+[submodule "pack/bai/start/nvim-cmp"]
+	path = pack/bai/start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
+[submodule "pack/bai/start/LuaSnip"]
+	path = pack/bai/start/LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip
+[submodule "pack/bai/start/cmp_luasnip"]
+	path = pack/bai/start/cmp_luasnip
+	url = https://github.com/saadparwaiz1/cmp_luasnip
+[submodule "pack/bai/start/neo-tree.nvim"]
+	path = pack/bai/start/neo-tree.nvim
+	url = https://github.com/nvim-neo-tree/neo-tree.nvim
+[submodule "pack/bai/start/nui.nvim"]
+	path = pack/bai/start/nui.nvim
+	url = https://github.com/MunifTanjim/nui.nvim
+[submodule "pack/bai/start/copilot.lua"]
+	path = pack/bai/start/copilot.lua
+	url = https://github.com/zbirenbaum/copilot.lua
+[submodule "pack/bai/start/copilot-cmp"]
+	path = pack/bai/start/copilot-cmp
+	url = https://github.com/zbirenbaum/copilot-cmp
+[submodule "pack/bai/start/CopilotChat.nvim"]
+	path = pack/bai/start/CopilotChat.nvim
+	url = https://github.com/CopilotC-Nvim/CopilotChat.nvim
+[submodule "pack/bai/start/nvim-autopairs"]
+	path = pack/bai/start/nvim-autopairs
+	url = https://github.com/windwp/nvim-autopairs
+[submodule "pack/bai/start/render-markdown.nvim"]
+	path = pack/bai/start/render-markdown.nvim
+	url = https://github.com/MeanderingProgrammer/render-markdown.nvim
