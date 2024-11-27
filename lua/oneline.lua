@@ -3,7 +3,7 @@ require('lualine').setup{
    winbar = {
     lualine_a = { require'doing.api'.status },
 
-}
+}}
 
 --doing
 require('doing').setup {
