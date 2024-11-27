@@ -1,3 +1,29 @@
+--lualine
+require('lualine').setup{
+   winbar = {
+    lualine_a = { require'doing.api'.status },
+
+}
+
+--doing
+require('doing').setup {
+      -- default options
+      message_timeout = 2000,
+      winbar = { 
+        enabled = true,
+        -- ignores buffers that match filetype
+        ignored_buffers = { 'NvimTree' }
+      },
+
+      doing_prefix = 'Current Task: ',
+      store = {
+        -- automatically create a .tasks when calling :Do
+        auto_create_file = true, 
+        file_name = '.tasks',
+      },
+    }
+
+
 --noice
 require("noice").setup({
    lsp = {

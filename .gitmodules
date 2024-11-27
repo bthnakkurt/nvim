@@ -82,3 +82,12 @@
 [submodule "pack/bai/start/nvim-treesitter"]
 	path = pack/bai/start/nvim-treesitter
 	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule "pack/bai/start/nerdy.nvim"]
+	path = pack/bai/start/nerdy.nvim
+	url = https://github.com/2KAbhishek/nerdy.nvim
+[submodule "pack/bai/start/doing.nvim"]
+	path = pack/bai/start/doing.nvim
+	url = https://github.com/Hashino/doing.nvim
+[submodule "pack/bai/start/lualine.nvim"]
+	path = pack/bai/start/lualine.nvim
+	url = https://github.com/nvim-lualine/lualine.nvim
