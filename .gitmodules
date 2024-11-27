@@ -73,3 +73,12 @@
 [submodule "pack/bai/start/render-markdown.nvim"]
 	path = pack/bai/start/render-markdown.nvim
 	url = https://github.com/MeanderingProgrammer/render-markdown.nvim
+[submodule "pack/bai/start/noice.nvim"]
+	path = pack/bai/start/noice.nvim
+	url = https://github.com/folke/noice.nvim
+[submodule "pack/bai/start/nvim-notify"]
+	path = pack/bai/start/nvim-notify
+	url = https://github.com/rcarriga/nvim-notify
+[submodule "pack/bai/start/nvim-treesitter"]
+	path = pack/bai/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
