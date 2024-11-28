@@ -91,3 +91,12 @@
 [submodule "pack/bai/start/lualine.nvim"]
 	path = pack/bai/start/lualine.nvim
 	url = https://github.com/nvim-lualine/lualine.nvim
+[submodule "pack/bai/start/md-pdf.nvim"]
+	path = pack/bai/start/md-pdf.nvim
+	url = https://github.com/arminveres/md-pdf.nvim
+[submodule "pack/bai/start/markdown-preview.nvim"]
+	path = pack/bai/start/markdown-preview.nvim
+	url = https://github.com/iamcco/markdown-preview.nvim
+[submodule "pack/bai/start/hex.nvim"]
+	path = pack/bai/start/hex.nvim
+	url = https://github.com/RaafatTurki/hex.nvim

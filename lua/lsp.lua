@@ -19,6 +19,7 @@ local cmp = require'cmp'
     }),
     sources = cmp.config.sources({
       { name = 'nvim_lsp' },
+      { name = 'path' },
       { name = 'luasnip' },
       { name = 'buffer' },
       { name = "copilot", group_index = 2 },
