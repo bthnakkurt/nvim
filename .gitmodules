@@ -100,3 +100,6 @@
 [submodule "pack/bai/start/hex.nvim"]
 	path = pack/bai/start/hex.nvim
 	url = https://github.com/RaafatTurki/hex.nvim
+[submodule "pack/bai/start/no-neck-pain.nvim"]
+	path = pack/bai/start/no-neck-pain.nvim
+	url = https://github.com/shortcuts/no-neck-pain.nvim

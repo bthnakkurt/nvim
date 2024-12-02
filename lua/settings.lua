@@ -1,4 +1,7 @@
-vim.cmd.colorscheme "catppuccin-mocha"
+--vim.cmd.colorscheme "catppuccin-mocha"
+vim.cmd.colorscheme "elflord"
+
+vim.g.mapleader = " "
 
 vim.o.tabstop = 3
 vim.o.expandtab = true 

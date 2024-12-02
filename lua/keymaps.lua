@@ -1,8 +1,15 @@
 local map = vim.api.nvim_set_keymap
 local opts = { noremap = true, silent = true }
+vim.g.mapleader = " "
+
+--center the screen
+map("n", '<C-b>', '<Cmd>NoNeckPain<CR>', opts)
+
+-- LSP
+map("n", "<leader>d", "<Cmd> lua vim.diagnostic.open_float() <CR>", opts)
 
 --tree
-map('n', '<C-e>', '<Cmd>Neotree toggle<CR>', opts)
+map('n', '<C-e>', '<Cmd>Neotree<CR>', opts)
 
 --barbar nvim
 map('n', '<A-1>', '<Cmd>BufferGoto 1<CR>', opts)
