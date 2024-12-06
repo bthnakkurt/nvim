@@ -103,3 +103,6 @@
 [submodule "pack/bai/start/no-neck-pain.nvim"]
 	path = pack/bai/start/no-neck-pain.nvim
 	url = https://github.com/shortcuts/no-neck-pain.nvim
+[submodule "pack/bai/start/let-it-snow.nvim"]
+	path = pack/bai/start/let-it-snow.nvim
+	url = https://github.com/marcussimonsen/let-it-snow.nvim

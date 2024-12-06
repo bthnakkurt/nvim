@@ -1,3 +1,6 @@
+--snowww
+require("let-it-snow").setup()
+
 --hex
 require 'hex'.setup()
 
