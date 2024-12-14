@@ -36,11 +36,11 @@ local cmp = require'cmp'
 
   local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
-   require('lspconfig')['bashls'].setup {
+   require'lspconfig'.bashls.setup {
       capabilities = capabilities
    }
 
-   require('lspconfig')['clangd'].setup {
+   require'lspconfig'.clangd.setup {
       capabilities = capabilities
    }
 
@@ -56,4 +56,8 @@ local cmp = require'cmp'
       capabilities = capabilities,
    }
 
+   require'lspconfig'.ts_ls.setup {
+      capabilities = capabilities,
+   }
 
+   require'lspconfig'.fortls.setup{}
