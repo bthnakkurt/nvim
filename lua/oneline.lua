@@ -5,23 +5,8 @@ require("let-it-snow").setup()
 require 'hex'.setup()
 
 --lualine
-require('lualine').setup{
-}
 
 --noice
-require("noice").setup({
-   lsp = {
-    override = {
-      ["vim.lsp.util.convert_input_to_markdown_lines"] = true,
-      ["vim.lsp.util.stylize_markdown"] = true,
-      ["cmp.entry.get_documentation"] = true,
-    },
-  },
-   presets = {
-      bottom_search = false,
-
-   }
-})
 
 --notify
 require("notify").setup()
@@ -55,5 +40,3 @@ require("neo-tree").setup({
       auto_expand_width=true,}
 })
 
---veil dashbaor
-require("veil").setup()

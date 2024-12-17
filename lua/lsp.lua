@@ -52,7 +52,7 @@ local cmp = require'cmp'
       capabilities = capabilities,
    }
 
-   require'lspconfig'.pyright.setup {
+   require'lspconfig'.basedpyright.setup {
       capabilities = capabilities,
    }
 

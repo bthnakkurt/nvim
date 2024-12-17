@@ -10,9 +10,6 @@
 [submodule "pack/bai/start/gitsigns.nvim"]
 	path = pack/bai/start/gitsigns.nvim
 	url = https://github.com/lewis6991/gitsigns.nvim
-[submodule "pack/bai/start/veil.nvim"]
-	path = pack/bai/start/veil.nvim
-	url = https://github.com/willothy/veil.nvim
 [submodule "pack/bai/start/telescope.nvim"]
 	path = pack/bai/start/telescope.nvim
 	url = https://github.com/nvim-telescope/telescope.nvim
@@ -73,9 +70,6 @@
 [submodule "pack/bai/start/render-markdown.nvim"]
 	path = pack/bai/start/render-markdown.nvim
 	url = https://github.com/MeanderingProgrammer/render-markdown.nvim
-[submodule "pack/bai/start/noice.nvim"]
-	path = pack/bai/start/noice.nvim
-	url = https://github.com/folke/noice.nvim
 [submodule "pack/bai/start/nvim-notify"]
 	path = pack/bai/start/nvim-notify
 	url = https://github.com/rcarriga/nvim-notify
@@ -88,9 +82,6 @@
 [submodule "pack/bai/start/doing.nvim"]
 	path = pack/bai/start/doing.nvim
 	url = https://github.com/Hashino/doing.nvim
-[submodule "pack/bai/start/lualine.nvim"]
-	path = pack/bai/start/lualine.nvim
-	url = https://github.com/nvim-lualine/lualine.nvim
 [submodule "pack/bai/start/md-pdf.nvim"]
 	path = pack/bai/start/md-pdf.nvim
 	url = https://github.com/arminveres/md-pdf.nvim
@@ -106,3 +97,6 @@
 [submodule "pack/bai/start/let-it-snow.nvim"]
 	path = pack/bai/start/let-it-snow.nvim
 	url = https://github.com/marcussimonsen/let-it-snow.nvim
+[submodule "pack/bai/start/which-key.nvim"]
+	path = pack/bai/start/which-key.nvim
+	url = https://github.com/folke/which-key.nvim
